@@ -1,10 +1,10 @@
 ## Preprocessing Images for Retinal Photography
 
 python version : 3.9.7
-requirements : opencv-python
+requirements : opencv-python, numpy
 
 ```bash
-pip install opencv-python
+pip install opencv-python numpy
 ```
 
 ## Usage
